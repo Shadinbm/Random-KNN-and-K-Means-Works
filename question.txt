@@ -1,0 +1,73 @@
+KNN-Based Questions (Supervised Learning)  
+
+1.   Predict Salary Range (Low, Medium, High)  
+   Given additional features like   years of experience  , use KNN to classify a person’s salary into three categories:
+
+     Low (< ₹60,000), Medium (₹60,000–₹90,000), High (> ₹90,000).
+
+2.   Department Classification Using KNN  
+   Assume each person belongs to a department (e.g., HR, IT, Sales). Train a KNN model to predict the department based on salary and experience.
+
+3.   Find Similar Employees  
+   Given a new employee with a salary of ₹88,000 and 5 years of experience, use KNN to find the 3 most similar employees in the dataset.
+
+4.   Predict Name Similarity Group (Using Encoded Name Features)  
+   Convert names into numerical features (e.g., name length, number of vowels). Use KNN to classify whether a new name is similar in pattern to an existing name.
+
+5.   Predict Likelihood of Promotion Based on Salary and Experience  
+   Assume you’ve added a “Promoted” column (yes/no). Use KNN to predict whether a new employee will be promoted based on salary and experience.
+
+---
+
+      K-Means Clustering Questions (Unsupervised Learning)  
+
+6.   Group Employees by Salary Brackets  
+   Use K-Means to cluster the dataset into 3 groups based on salary only. Analyze the average salary in each group.
+
+7.   Cluster Employees Based on Synthetic Features  
+   Add features like `years_of_experience` and `education_level` (encoded numerically). Use K-Means to segment the workforce into distinct employee groups.
+
+8.   Visualize Clusters on a 2D Plot  
+   Assuming you have 2D data (like salary vs experience), visualize K-means clusters and label the centroids.
+
+9.   Determine Optimal K (Elbow Method)  
+   Use the Elbow method to determine the best number of clusters based on the salary values.
+
+10.   Cluster for Salary Benchmarking  
+    After clustering, determine if any employees are significantly underpaid compared to their cluster average.KNN-Based Questions (Supervised Learning)  
+
+1.   Predict Salary Range (Low, Medium, High)  
+   Given additional features like   years of experience  , use KNN to classify a person’s salary into three categories:
+
+     Low (< ₹60,000), Medium (₹60,000–₹90,000), High (> ₹90,000).
+
+2.   Department Classification Using KNN  
+   Assume each person belongs to a department (e.g., HR, IT, Sales). Train a KNN model to predict the department based on salary and experience.
+
+3.   Find Similar Employees  
+   Given a new employee with a salary of ₹88,000 and 5 years of experience, use KNN to find the 3 most similar employees in the dataset.
+
+4.   Predict Name Similarity Group (Using Encoded Name Features)  
+   Convert names into numerical features (e.g., name length, number of vowels). Use KNN to classify whether a new name is similar in pattern to an existing name.
+
+5.   Predict Likelihood of Promotion Based on Salary and Experience  
+   Assume you’ve added a “Promoted” column (yes/no). Use KNN to predict whether a new employee will be promoted based on salary and experience.
+
+---
+
+      K-Means Clustering Questions (Unsupervised Learning)  
+
+6.   Group Employees by Salary Brackets  
+   Use K-Means to cluster the dataset into 3 groups based on salary only. Analyze the average salary in each group.
+
+7.   Cluster Employees Based on Synthetic Features  
+   Add features like `years_of_experience` and `education_level` (encoded numerically). Use K-Means to segment the workforce into distinct employee groups.
+
+8.   Visualize Clusters on a 2D Plot  
+   Assuming you have 2D data (like salary vs experience), visualize K-means clusters and label the centroids.
+
+9.   Determine Optimal K (Elbow Method)  
+   Use the Elbow method to determine the best number of clusters based on the salary values.
+
+10.   Cluster for Salary Benchmarking  
+    After clustering, determine if any employees are significantly underpaid compared to their cluster average.
